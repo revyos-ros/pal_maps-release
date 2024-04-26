@@ -1,0 +1,15 @@
+ros-humble-pal-maps (0.0.2-1jammy) jammy; urgency=high
+
+  * license and contributing
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Thu, 25 Apr 2024 00:00:00 -0000
+
+ros-humble-pal-maps (0.0.1-1jammy) jammy; urgency=high
+
+  * initial commit
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Wed, 24 Apr 2024 00:00:00 -0000
+
+
