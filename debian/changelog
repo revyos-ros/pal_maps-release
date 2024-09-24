@@ -1,0 +1,39 @@
+ros-humble-pal-maps (0.0.4-1bookworm) bookworm; urgency=high
+
+  * Merge branch 'abr/fix/map-name' into 'humble-devel'
+    renamed pal office map
+    See merge request navigation/pal_maps!3
+  * renamed pal office map
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Mon, 24 Jun 2024 16:00:00 -0000
+
+ros-humble-pal-maps (0.0.3-1bookworm) bookworm; urgency=high
+
+  * Merge branch 'man/hospital-maps' into 'humble-devel'
+    added hospital two floors maps
+    See merge request navigation/pal_maps!1
+  * added hospital and hospital_with_aruco maps
+  * added hospital_two_floors_with_aruco map
+  * Delete map.yaml
+  * Delete map.pgm
+  * added hospital two floors maps
+  * Contributors: antoniobrandi, martinaannicelli
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Mon, 29 Apr 2024 16:00:00 -0000
+
+ros-humble-pal-maps (0.0.2-1bookworm) bookworm; urgency=high
+
+  * license and contributing
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Wed, 24 Apr 2024 16:00:00 -0000
+
+ros-humble-pal-maps (0.0.1-1bookworm) bookworm; urgency=high
+
+  * initial commit
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Tue, 23 Apr 2024 16:00:00 -0000
+
+
