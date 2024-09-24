@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/pal_maps-release.git
 tracks:
   humble:
     actions:
